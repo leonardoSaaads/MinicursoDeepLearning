@@ -29,7 +29,7 @@ Esse repositório tem como principal objetivo fornecer uma base de estudos para 
 - Explorar o módulo numpy.
 - Explorar o módulo matplotlib.
 
-### **Hands-On 3: Criando o Primeiro neurônio.**
+### **Hands-On 3: Criando o Primeiro Neurônio.**
 
 **Objetivo:**
 
