@@ -14,7 +14,7 @@ Esse repositório tem como principal objetivo fornecer uma base de estudos para 
 - Preparar o ambiente virtual para o desenvolvimento de redes neurais artificiais.
 - Instalar o ambiente virtual.
 
-### **Hands-On 1: [A História de Redes Neurais e Métodos de Machine Learning.](/Unidade%201/Historia.ipynb)**
+### **Hands-On 1: [A História de Redes Neurais e Métodos de Machine Learning.](/Unidade%201/Hands-On_01.ipynb)**
 
 **Objetivo:**
 
@@ -29,7 +29,7 @@ Esse repositório tem como principal objetivo fornecer uma base de estudos para 
 - Explorar o módulo numpy.
 - Explorar o módulo matplotlib.
 
-### **Hands-On 3: Criando o Primeiro Neurônio.**
+### **Hands-On 3: [Criando os Primeiros Neurônios.](/Unidade%201/Hands-On_03.ipynb)**
 
 **Objetivo:**
 
@@ -60,7 +60,7 @@ Esse repositório tem como principal objetivo fornecer uma base de estudos para 
 - Introduzir otimização.
 - Otimizar o modelo.
 
-### **Hands-On 7: Retropropagação e Otimizadores**
+### **Hands-On 7: Retropropagação e Otimizadores.**
 
 **Objetivo:**
 
