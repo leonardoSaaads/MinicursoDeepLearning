@@ -29,7 +29,7 @@ Esse repositório tem como principal objetivo fornecer uma base de estudos para 
 - Explorar o módulo numpy.
 - Explorar o módulo matplotlib.
 
-### **Hands-On 3: [Criando os Primeiros Neurônios - Parte 01](/Unidade%201/Hands-On_031.ipynb)**
+### **Hands-On 3: [Os Primeiros Neurônios e as Primeiras Camadas - Parte 01](/Unidade%201/Hands-On_031.ipynb)**
 
 **Objetivo:**
 
@@ -37,7 +37,7 @@ Esse repositório tem como principal objetivo fornecer uma base de estudos para 
 - Criar um neurônio com numpy.
 - Criar uma camada de neurônios.
 
-### **Hands-On 3: [Criando os Primeiros Neurônios - Parte 02](/Unidade%201/Hands-On_032.ipynb)**
+### **Hands-On 3: [Os Primeiros Neurônios e as Primeiras Camadas - Parte 02](/Unidade%201/Hands-On_032.ipynb)**
 
 **Objetivos:**
 
@@ -45,7 +45,7 @@ Esse repositório tem como principal objetivo fornecer uma base de estudos para 
 - Matriz de Inputs.
 - Matriz transposta.
 
-### **Hands-On 4: Criando um Modelo Simplificado de Camadas.**
+### **Hands-On 4: [Criando um Modelo Simplificado de Camadas - Dense Layer]()**
 
 **Objetivo:**
 
