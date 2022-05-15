@@ -44,8 +44,16 @@ Esse repositório tem como principal objetivo fornecer uma base de estudos para 
 - Entender o modelo de lotes.
 - Matriz de Inputs.
 - Matriz transposta.
+- Simples camada de neurônios.
 
-### **Hands-On 4: [Criando um Modelo Simplificado de Camadas - Dense Layer]()**
+### **Hands-On 4: [Funções de Ativação](/Unidade%201/Hands_On_04.ipynb)**
+
+**Objetivo:**
+
+- Descrever as funções de ativação.
+- Implementar as funções de ativação.
+
+### **Hands-On 5: [Criando um Modelo Simplificado de Camadas - Dense Layer](/Unidade%201/Hands_On_04.ipynb)**
 
 **Objetivo:**
 
@@ -54,13 +62,9 @@ Esse repositório tem como principal objetivo fornecer uma base de estudos para 
 
 ## Unidade 2
 
-### **Hands-On 5: Funções de Ativação e Calculando Erro.**
+### **Hands-On 5: Calculando Erro com Loss.**
 
 **Objetivo:**
-
-- Descrever as funções de ativação.
-- Implementar as funções de ativação.
-
 ### **Hands-On 6: Introdução à Otimização.**
 
 **Objetivo:**
