@@ -62,17 +62,17 @@ Esse repositório tem como principal objetivo fornecer uma base de estudos para 
 
 ## Unidade 2
 
-### **Hands-On 5: Calculando Erro com Loss.**
+### **Hands-On 6: Calculando Erro com Loss.**
 
 **Objetivo:**
-### **Hands-On 6: Introdução à Otimização.**
+### **Hands-On 7: Introdução à Otimização.**
 
 **Objetivo:**
 
 - Introduzir otimização.
 - Otimizar o modelo.
 
-### **Hands-On 7: Retropropagação e Otimizadores.**
+### **Hands-On 8: Retropropagação e Otimizadores.**
 
 **Objetivo:**
 
