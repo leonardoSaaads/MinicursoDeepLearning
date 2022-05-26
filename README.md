@@ -53,7 +53,7 @@ Esse repositório tem como principal objetivo fornecer uma base de estudos para 
 - Descrever as funções de ativação.
 - Implementar as funções de ativação.
 
-### **Hands-On 5: [Criando um Modelo Simplificado de Camadas - Dense Layer](/Unidade%201/Hands_On_04.ipynb)**
+### **Hands-On 5: [Criando um Modelo Simplificado de Camadas - Dense Layer](/Unidade%201/Hands_On_05.ipynb)**
 
 **Objetivo:**
 
@@ -65,6 +65,9 @@ Esse repositório tem como principal objetivo fornecer uma base de estudos para 
 ### **Hands-On 6: [Calculando Erro com Loss](/Unidade%202/Hands-On_06.ipynb)**
 
 **Objetivo:**
+
+- Criar um modelo matemático para representar o erro.
+- Criar um modelo matemático para representar o erro com numpy.
 ### **Hands-On 7: Introdução à Otimização.**
 
 **Objetivo:**
