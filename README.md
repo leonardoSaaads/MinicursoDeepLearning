@@ -62,7 +62,7 @@ Esse repositório tem como principal objetivo fornecer uma base de estudos para 
 
 ## Unidade 2
 
-### **Hands-On 6: Calculando Erro com Loss.**
+### **Hands-On 6: [Calculando Erro com Loss](/Unidade%202/Hands-On_06.ipynb)**
 
 **Objetivo:**
 ### **Hands-On 7: Introdução à Otimização.**
